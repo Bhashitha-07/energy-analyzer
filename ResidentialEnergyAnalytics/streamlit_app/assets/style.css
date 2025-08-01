@@ -1,0 +1,44 @@
+/* Enhanced style.css */
+
+body {
+  background-color: #f1f6f9;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3, .stTitle {
+  color: #0077b6;
+}
+
+.upload-section {
+  background: linear-gradient(to right, #caf0f8, #ade8f4);
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.upload-section h2 {
+  color: #03045e;
+  margin-bottom: 10px;
+}
+
+.stFileUploader label {
+  color: #0077b6 !important;
+  font-weight: bold;
+}
+
+.stButton>button {
+  background-color: #0077b6;
+  color: white;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+.stDataFrame, .stTable {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
