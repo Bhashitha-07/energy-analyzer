@@ -1,6 +1,7 @@
-openai
 streamlit
 pandas
+numpy
 matplotlib
-scikit-learn
 seaborn
+scikit-learn
+openai
